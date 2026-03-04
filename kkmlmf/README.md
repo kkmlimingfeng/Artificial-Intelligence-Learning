@@ -27,7 +27,7 @@
 - 解码器（官方的和自己实现）
 - Transformer（自己实现以及简单训练测试效果）
 
-## 2025年12月27日-12月29日-？
+## 2025年12月27日-12月29日
 想玩一下StableDiffusion，后续想学一下使用ComfyUI
 ### StableDiffusion内容介绍
 - 使用StableDiffusion进行文生图和图生图 (4G显存显卡即可运行，可NSFW)
@@ -38,3 +38,6 @@
 - 使用ControlNet生成可控图像
 - LoRA 微调
 - StableDiffusion的详细实现
+
+## 2026年3月4日-
+做一个mamba3的代码解析

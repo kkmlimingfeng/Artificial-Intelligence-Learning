@@ -13,3 +13,4 @@ pytorh全方位入门到入土教程
 - pytorch入门
 - transformer
 - stablediffusion
+- mamba3

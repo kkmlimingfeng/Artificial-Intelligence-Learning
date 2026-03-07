@@ -1,5 +1,5 @@
-# pytorch-study
-pytorh全方位入门到入土教程
+# Artificial-Intelligence-Learning
+人工智能各方面入门到入土教程（更新中）
 
 # 协作者
 <a href="https://github.com/kkmlimingfeng/pytorch-study/graphs/contributors">
@@ -14,3 +14,4 @@ pytorh全方位入门到入土教程
 - transformer
 - stablediffusion
 - mamba3
+- copaw安装部署教程

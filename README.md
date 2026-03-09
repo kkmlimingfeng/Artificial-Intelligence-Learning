@@ -14,4 +14,4 @@
 - transformer
 - stablediffusion
 - mamba3
-- copaw安装部署教程
+- copaw的wsl安装部署教程

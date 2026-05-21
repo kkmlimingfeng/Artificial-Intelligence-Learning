@@ -2,6 +2,7 @@
 **可以先打开Installed，将需要安装的包装一下**
 ## 2025年12月20日
 自用pytorch入门笔记（ipynb版）
+**在1号ipynb**
 ### pytorch-study内容介绍
 - 张量及其运算
 - 拓展：einops的简单使用
@@ -19,6 +20,7 @@
 
 ## 2025年12月21日
 很多朋友希望我做一个Transformer详细教程，于是我今天花了一天时间完成了
+**在2号ipynb**
 ### Transformer内容介绍
 - 官方Transformer代码运行尝试（先看看效果）
 - 嵌入层（用官方的）和位置编码（自己实现）
@@ -29,6 +31,7 @@
 
 ## 2025年12月27日-12月29日
 想玩一下StableDiffusion，后续想学一下使用ComfyUI
+**在3号ipynb**
 ### StableDiffusion内容介绍
 - 使用StableDiffusion进行文生图和图生图 (4G显存显卡即可运行，可NSFW)
 - 使用Waifu-Diffusion生图，4G显存可跑
@@ -39,16 +42,22 @@
 - LoRA 微调
 - StableDiffusion的详细实现
 
-## 2026年3月4日-
+## 2026年3月4日
 做一个mamba3的代码解析
+**在4号ipynb**
 ### mamba3-study内容介绍
 - mamba3使用说明
 - mamba3模型完整分步实现
 - mamba3模型测试
 - 使用mamba3训练模型并生成文本
 
+## 2026年3月9日
+做了一个copaw（阿里的国产版龙虾）全程免费部署教程
+**在5号pdf里**
+
 ## 2026年5月21日-
 做一些关于大模型使用的知识
+**在6号ipynb**
 ### LMandLora内容介绍
 - 模型的加载、部署、使用
 - 模型的量化、剪枝、微调

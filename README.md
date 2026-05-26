@@ -37,41 +37,33 @@
 
 ## 文件夹介绍
 
-<table>
-  <tr>
-    <td width="33%" valign="top" bgcolor="#F8FBFF">
-      <h3>🧠 kkmlmf</h3>
-      <p>kkmlmf的文件夹</p>
-      <ul>
-        <li>PyTorch 入门</li>
-        <li>Transformer 详细教程</li>
-        <li>Stable Diffusion 相关实践</li>
-        <li>Mamba3 代码解析</li>
-        <li>Copaw 的 WSL 安装部署教程</li>
-        <li>模型的加载、部署、量化、剪枝、微调</li>
-      </ul>
-      <p><a href="./kkmlmf/">📂 进入 kkmlmf 文件夹</a></p>
-    </td>
-    <td width="33%" valign="top" bgcolor="#F8FFF5">
-      <h3>🌿 LittleBird</h3>
-      <p>Rhang的文件夹</p>
-      <ul>
-        <li>Rhang的学习笔记</li>
-        <li>期待更新</li>
-      </ul>
-      <p><a href="./LittleBird/">📂 进入 LittleBird 文件夹</a></p>
-    </td>
-    <td width="33%" valign="top" bgcolor="#FFF9F2">
-      <h3>🌸 Tao</h3>
-      <p>占位</p>
-      <ul>
-        <li>TaoAi的学习笔记</li>
-        <li>期待更新</li>
-      </ul>
-      <p><a href="./Tao/">📂 进入 Tao 文件夹</a></p>
-    </td>
-  </tr>
-</table>
+### 🧠 kkmlmf
+> kkmlmf的文件夹
+>
+> - PyTorch 入门
+> - Transformer 详细教程
+> - Stable Diffusion 相关实践
+> - Mamba3 代码解析
+> - Copaw 的 WSL 安装部署教程
+> - 大模型的加载、部署、使用、量化、剪枝、微调
+>
+> [📂 进入 kkmlmf 文件夹](./kkmlmf/)
+
+### 🌿 LittleBird
+> Rhang的文件夹
+>
+> - Rhang的学习笔记
+> - 期待更新
+>
+> [📂 进入 LittleBird 文件夹](./LittleBird/)
+
+### 🌸 Tao
+> TaoAi的文件夹
+>
+> - TaoAi的学习笔记
+> - 期待更新
+>
+> [📂 进入 Tao 文件夹](./Tao/)
 
 ---
 

@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**可以先打开 Installed，将需要安装的包装一下**
+**（可选）打开 [Installed](./Installed.ipynb)，安装项目所需的库**
 
 ---
 

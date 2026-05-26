@@ -48,7 +48,6 @@
       </ul>
       <p><a href="./kkmlmf/">📂 进入 kkmlmf 文件夹</a></p>
     </td>
-    
     <td width="33%" valign="top" bgcolor="#F8FFF5">
       <h3>🌿 LittleBird</h3>
       <p>协作者 LittleBird 的学习文件夹，主要用于整理 ta 自己的学习内容与笔记。</p>
@@ -59,7 +58,6 @@
       </ul>
       <p><a href="./LittleBird/">📂 进入 LittleBird 文件夹</a></p>
     </td>
-    
     <td width="33%" valign="top" bgcolor="#FFF9F2">
       <h3>🌸 Tao</h3>
       <p>协作者 Tao 的学习文件夹，预留给 Tao 的个人学习内容与实践记录。</p>

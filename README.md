@@ -2,7 +2,7 @@
 人工智能各方面入门到入土教程（更新中）
 
 # 协作者
-<a href="https://github.com/kkmlimingfeng/pytorch-study/graphs/contributors">
+<a href="https://github.com/kkmlimingfeng/Artificial-Intelligence-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kkmlimingfeng/Artificial-Intelligence-Learning" />
 </a>
 

@@ -27,9 +27,9 @@
 
 - `data/`：存放静态数据，子文件与 ipynb 文件名对应
 - `package/`：存放无法直接 pip 下载的包
-- `kkmlmf/`：我的学习笔记与实践内容
-- `LittleBird/`：协作者 LittleBird 的学习笔记与实践内容
-- `Tao/`：协作者 Tao 的学习笔记与实践内容
+- `kkmlmf/`：
+- `LittleBird/`：
+- `Tao/`：
 
 ---
 
@@ -39,34 +39,32 @@
   <tr>
     <td width="33%" valign="top" bgcolor="#F8FBFF">
       <h3>🧠 kkmlmf</h3>
-      <p>我的个人学习文件夹，主要记录 AI 相关的入门与实践内容。</p>
+      <p>kkmlmf的文件夹</p>
       <ul>
         <li>PyTorch 入门</li>
         <li>Transformer 详细教程</li>
         <li>Stable Diffusion 相关实践</li>
         <li>Mamba3 代码解析</li>
         <li>Copaw 的 WSL 安装部署教程</li>
-        <li>大模型的加载、部署、使用、量化、剪枝、微调</li>
+        <li>模型的加载、部署、量化、剪枝、微调</li>
       </ul>
       <p><a href="./kkmlmf/">📂 进入 kkmlmf 文件夹</a></p>
     </td>
     <td width="33%" valign="top" bgcolor="#F8FFF5">
       <h3>🌿 LittleBird</h3>
-      <p>协作者 LittleBird 的学习文件夹，主要用于整理 ta 自己的学习内容与笔记。</p>
+      <p>Rhang的文件夹</p>
       <ul>
-        <li>协作者自己的学习笔记</li>
-        <li>相关 AI / Python / 工具实践</li>
-        <li>持续更新中</li>
+        <li>Rhang的学习笔记</li>
+        <li>期待更新</li>
       </ul>
       <p><a href="./LittleBird/">📂 进入 LittleBird 文件夹</a></p>
     </td>
     <td width="33%" valign="top" bgcolor="#FFF9F2">
       <h3>🌸 Tao</h3>
-      <p>协作者 Tao 的学习文件夹，预留给 Tao 的个人学习内容与实践记录。</p>
+      <p>占位</p>
       <ul>
-        <li>协作者自己的学习笔记</li>
-        <li>相关 AI / Python / 工具实践</li>
-        <li>后续持续更新</li>
+        <li>TaoAi的学习笔记</li>
+        <li>期待更新</li>
       </ul>
       <p><a href="./Tao/">📂 进入 Tao 文件夹</a></p>
     </td>

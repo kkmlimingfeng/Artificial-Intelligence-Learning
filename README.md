@@ -7,10 +7,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
+
 ## 协作者
 <a href="https://github.com/kkmlimingfeng/Artificial-Intelligence-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kkmlimingfeng/Artificial-Intelligence-Learning&columns=6&max=10&anon=1" />
 </a>
+
 ---
 
 ## 仓库导航

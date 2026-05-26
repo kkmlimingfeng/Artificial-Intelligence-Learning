@@ -3,7 +3,7 @@
 
 # 协作者
 <a href="https://github.com/kkmlimingfeng/pytorch-study/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kkmlimingfeng/pytorch-study" />
+  <img src="https://contrib.rocks/image?repo=kkmlimingfeng/Artificial-Intelligence-Learning" />
 </a>
 
 # 内容

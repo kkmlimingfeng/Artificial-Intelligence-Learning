@@ -1,4 +1,4 @@
-# pytorch study
+# Artificial-Intelligence-Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -10,18 +10,18 @@
 
 ## 目录
 
-- [📘 2025年12月20日｜PyTorch 入门笔记](#-2025年12月20日pytorch-入门笔记)
-- [📗 2025年12月21日｜Transformer 详细教程](#-2025年12月21日transformer-详细教程)
-- [📙 2025年12月27日 - 12月29日｜Stable Diffusion 学习笔记](#-2025年12月27日--12月29日stable-diffusion-学习笔记)
-- [📕 2026年3月4日｜Mamba3 代码解析](#-2026年3月4日mamba3-代码解析)
-- [📒 2026年3月9日｜Copaw 部署教程](#-2026年3月9日copaw-部署教程)
-- [📓 2026年5月21日 - 2026年5月26日｜大模型使用与微调](#-2026年5月21日--2026年5月26日大模型使用与微调)
+- [📘 2025年12月20日｜PyTorch 入门笔记](#2025年12月20日pytorch-入门笔记)
+- [📗 2025年12月21日｜Transformer 详细教程](#2025年12月21日transformer-详细教程)
+- [📙 2025年12月27日 - 12月29日｜Stable Diffusion 学习笔记](#2025年12月27日-12月29日stable-diffusion-学习笔记)
+- [📕 2026年3月4日｜Mamba3 代码解析](#2026年3月4日mamba3-代码解析)
+- [📒 2026年3月9日｜Copaw 部署教程](#2026年3月9日copaw-部署教程)
+- [📓 2026年5月21日 - 2026年5月26日｜大模型使用与微调](#2026年5月21日-2026年5月26日大模型使用与微调)
 
 ---
 
 ## 📘 2025年12月20日｜PyTorch 入门笔记
 
-**文件位置：** [打开 1号 ipynb](./1%E5%8F%B7.ipynb)
+**文件位置：** [打开 1号 ipynb](./1_pytorch_study.ipynb)
 
 ### 内容介绍
 - 张量及其运算
@@ -44,7 +44,7 @@
 
 ## 📗 2025年12月21日｜Transformer 详细教程
 
-**文件位置：** [打开 2号 ipynb](./2%E5%8F%B7.ipynb)
+**文件位置：** [打开 2号 ipynb](./2_Transformer.ipynb)
 
 ### 内容介绍
 - 官方 Transformer 代码运行尝试（先看看效果）
@@ -58,7 +58,7 @@
 
 ## 📙 2025年12月27日 - 12月29日｜Stable Diffusion 学习笔记
 
-**文件位置：** [打开 3号 ipynb](./3%E5%8F%B7.ipynb)
+**文件位置：** [打开 3号 ipynb](./3_StableDiffusion.ipynb)
 
 ### 内容介绍
 - 使用 Stable Diffusion 进行文生图和图生图（4G 显存显卡即可运行，可 NSFW）
@@ -75,7 +75,7 @@
 
 ## 📕 2026年3月4日｜Mamba3 代码解析
 
-**文件位置：** [打开 4号 ipynb](./4%E5%8F%B7.ipynb)
+**文件位置：** [打开 4号 ipynb](./4_mamba3-study.ipynb)
 
 ### 内容介绍
 - Mamba3 使用说明
@@ -87,7 +87,7 @@
 
 ## 📒 2026年3月9日｜Copaw 部署教程
 
-**文件位置：** [打开 5号 pdf](./5%E5%8F%B7.pdf)
+**文件位置：** [打开 5号 pdf](./5_copaw的wsl安装指南.pdf)
 
 ### 内容介绍
 - 阿里国产版“龙虾” Copaw 的全程免费部署教程
@@ -96,7 +96,7 @@
 
 ## 📓 2026年5月21日 - 2026年5月26日｜大模型使用与微调
 
-**文件位置：** [打开 6号 ipynb](./6%E5%8F%B7.ipynb)
+**文件位置：** [打开 6号 ipynb](./6_LMandLora.ipynb)
 
 ### 内容介绍
 - GPU 用量检测和缓存清理

@@ -3,7 +3,7 @@
 
 # 协作者
 <a href="https://github.com/kkmlimingfeng/Artificial-Intelligence-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kkmlimingfeng/Artificial-Intelligence-Learning" />
+  <img src="https://contrib.rocks/image?repo=kkmlimingfeng/Artificial-Intelligence-Learning&columns=6&max=100&anon=1" />
 </a>
 
 # 内容

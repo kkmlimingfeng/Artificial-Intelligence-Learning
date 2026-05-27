@@ -6,7 +6,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Last Commit](https://img.shields.io/badge/Last%20commit-2026--05--26-blue?style=for-the-badge)
+![Last Commit](https://img.shields.io/badge/Last%20commit-2026--05--27-blue?style=for-the-badge)
 
 ---
 

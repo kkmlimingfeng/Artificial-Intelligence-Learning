@@ -46,6 +46,7 @@
 > - Mamba3 代码解析
 > - Copaw 的 WSL 安装部署教程
 > - 大模型的加载、部署、使用、量化、剪枝、微调
+> - Markdown与Mermaid教学
 >
 > [📂 进入 kkmlmf 文件夹](./kkmlmf/)
 

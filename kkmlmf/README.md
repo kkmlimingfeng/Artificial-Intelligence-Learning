@@ -113,7 +113,7 @@
 
 ## 📒 2026年5月27日｜Markdown教学
 
-**文件位置：** [打开 7号 pdf](./7_Markdown-study.ipynb)
+**文件位置：** [打开 7号 ipynb](./7_Markdown-study.ipynb)
 
 ### 内容介绍
 - Markdown基础教学

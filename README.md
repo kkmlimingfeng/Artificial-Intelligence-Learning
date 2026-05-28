@@ -1,7 +1,7 @@
 # Artificial-Intelligence-Learning
 
 > 人工智能各方面入门到入土教程（更新中）
-
+> > 本教程的目标是了解+会用，并非深入底层
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)

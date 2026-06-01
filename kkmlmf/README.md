@@ -120,3 +120,15 @@
 - Markdown符号大全
 - 表格与矩阵
 - Mermaid画图（需用在jupyter lab里）
+
+---
+
+## 📕 2026年6月1日｜Agent入门
+
+**文件位置：** [打开 8号 ipynb](./8_Agent.ipynb)
+
+### 内容介绍
+- Agent基本结构和本地模型实现
+- ReAct结构和实现
+
+---

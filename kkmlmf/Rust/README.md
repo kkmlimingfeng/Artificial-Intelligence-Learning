@@ -65,7 +65,7 @@ export RUSTUP_UPDATE_ROOT="https://rsproxy.cn/rustup"
 
 打开配置文件
 ```bash
-nano ~/.cargo/config
+nano ~/.cargo/config.toml
 ```
 
 输入以下内容

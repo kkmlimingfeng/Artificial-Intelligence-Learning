@@ -36,9 +36,9 @@ conda create -n ai-learning python=3.12 -y
 conda activate ai-learning
 ```
 
-### 3. 配置 pip 清华源镜像
+### 3. 配置 pip 清华源镜像 并 安装 notebook
 
-临时使用清华源安装时可这样写：
+临时使用清华源安装notebook可这样写：
 
 ```bash
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple notebook
@@ -46,14 +46,8 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple notebook
 
 如果你想长期使用清华源，可以配置为默认镜像：
 
-- Windows：`%APPDATA%\pip\pip.ini`
-- Linux / macOS：`~/.pip/pip.conf`
-
-内容如下：
-
-```ini
-[global]
-index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+```bash
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 然后安装 `notebook`：
@@ -69,6 +63,12 @@ pip install notebook
 ```bash
 jupyter notebook
 ```
+或者
+```
+jupyter lab
+```
+
+按住ctrl，点击命令行里的链接打开本项目
 
 ---
 

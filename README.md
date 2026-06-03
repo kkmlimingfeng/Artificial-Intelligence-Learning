@@ -120,7 +120,6 @@ uv --version
 建议使用 Python 3.12 创建独立环境：
 
 ```bash
-uv python install 3.12
 uv venv --python 3.12
 ```
 

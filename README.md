@@ -11,6 +11,67 @@
 
 ---
 
+## 快速上手
+
+### 1. 获取项目
+
+先把本项目克隆到本地：
+
+```bash
+git clone https://github.com/kkmlimingfeng/Artificial-Intelligence-Learning.git
+```
+
+如果你下载的是压缩包，请先解压；如果你已经拿到的是文件夹，直接进入项目根目录即可：
+
+```bash
+cd Artificial-Intelligence-Learning
+```
+
+### 2. 创建并激活 Conda 环境
+
+建议使用 Python 3.12 创建独立环境：
+
+```bash
+conda create -n ai-learning python=3.12 -y
+conda activate ai-learning
+```
+
+### 3. 配置 pip 清华源镜像
+
+临时使用清华源安装时可这样写：
+
+```bash
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple notebook
+```
+
+如果你想长期使用清华源，可以配置为默认镜像：
+
+- Windows：`%APPDATA%\pip\pip.ini`
+- Linux / macOS：`~/.pip/pip.conf`
+
+内容如下：
+
+```ini
+[global]
+index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
+然后安装 `notebook`：
+
+```bash
+pip install notebook
+```
+
+### 4. 开始使用
+
+安装完成后，启动 Jupyter Notebook，然后就可以直接打开仓库里的 `.ipynb` 文件开始学习和实验了。
+
+```bash
+jupyter notebook
+```
+
+---
+
 ## 协作者
 <a href="https://github.com/kkmlimingfeng/Artificial-Intelligence-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kkmlimingfeng/Artificial-Intelligence-Learning&columns=6&max=10&anon=1" />

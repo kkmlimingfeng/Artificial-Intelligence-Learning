@@ -163,7 +163,6 @@ jupyter lab
 
 ## 仓库结构
 
-- `data/`：存放静态数据，子文件与 ipynb 文件名对应
 - `package/`：存放无法直接 pip 下载的包
 - `kkmlmf/`：
 - `LittleBird/`：

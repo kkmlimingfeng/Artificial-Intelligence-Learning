@@ -21,7 +21,7 @@
 git clone https://github.com/kkmlimingfeng/Artificial-Intelligence-Learning.git
 ```
 
-如果你下载的是压缩包，请先解压；如果你已经拿到的是文件夹，直接进入项目根目录即可：
+如果你下载的是压缩包，请先解压；如果通过git clone，直接进入项目根目录即可：
 
 ```bash
 cd Artificial-Intelligence-Learning

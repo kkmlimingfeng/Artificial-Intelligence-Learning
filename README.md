@@ -20,6 +20,8 @@
 
 ## 仓库导航
 
+- [快速上手-Anaconda](#快速上手anaconda版适用于windowsmacoslinuxwsl2)
+- [快速上手-uv](#快速上手uv版适用于macoslinuxwsl2)
 - [仓库结构](#仓库结构)
 - [文件夹介绍](#文件夹介绍)
 - [说明](#说明)
@@ -209,6 +211,8 @@ jupyter lab
 
 - PyTorch 学习
 - Transformer / Diffusion / LLM 学习
-- AI 相关项目的代码笔记整理
+- Markdown
+- 模型使用、部署和优化
+- Agent
 
 欢迎交流与指正。

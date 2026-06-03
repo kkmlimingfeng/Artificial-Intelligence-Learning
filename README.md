@@ -26,7 +26,7 @@
 
 ---
 
-## 快速上手
+## 快速上手（Anaconda版，适用于Windows、macOS、Linux、wsl2）
 
 ### 1. 获取项目
 
@@ -74,6 +74,74 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 ```bash
 pip install notebook
+```
+
+### 4. 开始使用
+
+安装完成后，启动 Jupyter Notebook，然后就可以直接打开仓库里的 `.ipynb` 文件开始学习和实验了。
+
+```bash
+jupyter notebook
+```
+或者
+```
+jupyter lab
+```
+
+按住ctrl，点击命令行里的链接打开本项目
+
+---
+
+## 快速上手（uv版，适用于macOs、Linux、wsl2）
+
+### 1. 获取项目
+
+先把本项目克隆到本地：
+
+```bash
+git clone https://github.com/kkmlimingfeng/Artificial-Intelligence-Learning.git
+```
+
+如果你下载的是压缩包，请先解压；如果通过git clone，直接进入项目根目录即可：
+
+```bash
+cd Artificial-Intelligence-Learning
+```
+
+### 2. 创建并激活 uv 环境
+
+（未安装uv）安装uv
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv --version
+```
+
+建议使用 Python 3.12 创建独立环境：
+
+```bash
+uv python install 3.12
+uv venv --python 3.12
+```
+
+### 3. 配置 pip 清华源镜像 并 安装 notebook
+
+临时使用清华源安装notebook可这样写：
+
+```bash
+uv pip install -i https://pypi.tuna.tsinghua.edu.cn/simple notebook
+```
+
+如果你想长期使用清华源，可以配置为默认镜像：
+
+```bash
+uv pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
+然后安装 `notebook`：
+
+```bash
+uv pip install notebook
 ```
 
 ### 4. 开始使用

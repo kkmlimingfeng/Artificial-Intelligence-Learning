@@ -11,6 +11,21 @@
 
 ---
 
+## 协作者
+<a href="https://github.com/kkmlimingfeng/Artificial-Intelligence-Learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kkmlimingfeng/Artificial-Intelligence-Learning&columns=6&max=10&anon=1" />
+</a>
+
+---
+
+## 仓库导航
+
+- [仓库结构](#仓库结构)
+- [文件夹介绍](#文件夹介绍)
+- [说明](#说明)
+
+---
+
 ## 快速上手
 
 ### 1. 获取项目
@@ -32,8 +47,8 @@ cd Artificial-Intelligence-Learning
 建议使用 Python 3.12 创建独立环境：
 
 ```bash
-conda create -n ai-learning python=3.12 -y
-conda activate ai-learning
+conda create -n your_env_name python=3.12 -y
+conda activate your_env_name
 ```
 
 ### 3. 配置 pip 清华源镜像 并 安装 notebook
@@ -69,21 +84,6 @@ jupyter lab
 ```
 
 按住ctrl，点击命令行里的链接打开本项目
-
----
-
-## 协作者
-<a href="https://github.com/kkmlimingfeng/Artificial-Intelligence-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kkmlimingfeng/Artificial-Intelligence-Learning&columns=6&max=10&anon=1" />
-</a>
-
----
-
-## 仓库导航
-
-- [仓库结构](#仓库结构)
-- [文件夹介绍](#文件夹介绍)
-- [说明](#说明)
 
 ---
 

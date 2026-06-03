@@ -51,6 +51,11 @@ conda create -n your_env_name python=3.12 -y
 conda activate your_env_name
 ```
 
+（可选）安装uv，加速安装包的速度
+```bash
+pip install uv
+```
+
 ### 3. 配置 pip 清华源镜像 并 安装 notebook
 
 临时使用清华源安装notebook可这样写：

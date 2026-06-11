@@ -29,6 +29,8 @@
 ---
 
 <details>
+<summary>快速上手（Anaconda版）</summary>
+  
 ## 快速上手（Anaconda版，适用于Windows、macOS、Linux、wsl2）
 
 ### 1. 获取项目

@@ -133,7 +133,7 @@
 - ReAct结构和实现
 - 记忆系统
 - RAG
-- MCP🚧
+- MCP
 - Skills🚧
 
 ---

@@ -28,6 +28,7 @@
 
 ---
 
+<details>
 ## 快速上手（Anaconda版，适用于Windows、macOS、Linux、wsl2）
 
 ### 1. 获取项目
@@ -93,6 +94,8 @@ jupyter lab
 按住ctrl，点击命令行里的链接打开本项目
 
 ---
+
+</details>
 
 ## 快速上手（uv版，适用于macOs、Linux、wsl2）
 

@@ -95,10 +95,13 @@ jupyter lab
 
 按住ctrl，点击命令行里的链接打开本项目
 
----
-
 </details>
 
+---
+
+<details>
+<summary><b>快速上手（uv版）</b></summary>
+  
 ## 快速上手（uv版，适用于macOs、Linux、wsl2）
 
 ### 1. 获取项目
@@ -163,6 +166,8 @@ jupyter lab
 ```
 
 按住ctrl，点击命令行里的链接打开本项目
+
+</details>
 
 ---
 

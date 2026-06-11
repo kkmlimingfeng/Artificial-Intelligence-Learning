@@ -29,7 +29,7 @@
 ---
 
 <details>
-<summary>快速上手（Anaconda版）</summary>
+<summary><b>快速上手（Anaconda版）</b></summary>
   
 ## 快速上手（Anaconda版，适用于Windows、macOS、Linux、wsl2）
 

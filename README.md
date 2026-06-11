@@ -184,16 +184,20 @@ jupyter lab
 
 ### 🧠 kkmlmf
 > kkmlmf的文件夹
->
+
+<details>
+<summary>内容</summary>
+  
 > - PyTorch 入门
 > - Transformer 详细教程
 > - Stable Diffusion 相关实践
 > - Mamba3 代码解析
-> - Copaw 的 WSL 安装部署教程
-> - 大模型的加载、部署、使用、量化、剪枝、微调
-> - Markdown与Mermaid教学
-> - Agent入门
->
+> - Copaw 的 WSL2 安装部署教程
+> - 语言模型的加载、部署、使用、量化、剪枝、微调
+> - Markdown与Mermaid基础教学
+> - Agent入门及其结构基础
+</details>
+
 > [📂 进入 kkmlmf 文件夹](./kkmlmf/)
 
 ### 🌿 LittleBird

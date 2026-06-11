@@ -130,10 +130,11 @@
 
 ### 内容介绍
 - Agent基本结构和本地模型实现
+- 提示词工程、上下文工程
 - ReAct结构和实现
-- 记忆系统
-- RAG
-- MCP
-- Skills🚧
+- 记忆系统、RAG
+- MCP、Skills
+- harness工程
+- 
 
 ---

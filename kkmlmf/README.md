@@ -23,6 +23,21 @@
 
 ---
 
+```mermaid
+mindmap
+  root((人工智能从入门到入土))
+    1. PyTorch 入门笔记
+    2. Transformer 详细教程
+    3. Stable Diffusion 学习笔记
+    4. Mamba3 代码解析
+    5. Copaw 部署教程
+    6. 大模型使用与微调
+    7. Markdown教学
+    8. Agent入门
+```
+
+---
+
 ## 📘 2025年12月20日｜PyTorch 入门笔记
 
 **文件位置：** [打开 1号 ipynb](./1_pytorch_study.ipynb)

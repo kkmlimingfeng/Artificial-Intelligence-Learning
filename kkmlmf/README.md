@@ -124,7 +124,7 @@
 
 ---
 
-## 📕 2026年6月1日｜Agent入门
+## 📕 2026年6月1日 到 2026年6月12日｜Agent入门
 
 **文件位置：** [打开 8号 ipynb](./8_Agent.ipynb)
 
@@ -134,7 +134,9 @@
 - ReAct结构和实现
 - 记忆系统、RAG
 - MCP、Skills
-- harness工程 🚧
+- harness工程 
 - 沙箱
+- Loop工程介绍
+- MyAgent实现
 
 ---

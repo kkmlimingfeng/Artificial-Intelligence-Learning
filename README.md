@@ -7,7 +7,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Last Commit](https://img.shields.io/badge/Last%20commit-2026--06--11-blue?style=for-the-badge)
+![Last Commit](https://img.shields.io/badge/Last%20commit-2026--06--12-blue?style=for-the-badge)
 
 ---
 
@@ -195,7 +195,7 @@ jupyter lab
 > - Copaw 的 WSL2 安装部署教程
 > - 语言模型的加载、部署、使用、量化、剪枝、微调
 > - Markdown与Mermaid基础教学
-> - Agent入门及其结构基础
+> - Agent入门及其结构基础和较为标准的实现
 </details>
 
 > [📂 进入 kkmlmf 文件夹](./kkmlmf/)

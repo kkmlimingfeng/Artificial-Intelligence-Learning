@@ -195,7 +195,7 @@ jupyter lab
 > - Copaw 的 WSL2 安装部署教程
 > - 语言模型的加载、部署、使用、量化、剪枝、微调
 > - Markdown与Mermaid基础教学
-> - Agent入门及其结构基础和较为标准的实现
+> - Agent入门及其结构基础和用langGraph简单实现
 </details>
 
 > [📂 进入 kkmlmf 文件夹](./kkmlmf/)
